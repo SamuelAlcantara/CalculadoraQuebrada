@@ -1,6 +1,6 @@
 # CalculadoraQuebrada
 
-<p>Este programa é um Jogo que tem como objetivo fazer calculos apenas com os botões disponiveis na calculadora e chegar aos resultados apresentados ao lado.</p>
+<p>Este é um Jogo que tem como objetivo fazer calculos apenas com os botões disponiveis na calculadora e chegar aos resultados apresentados ao lado.</p>
 
 > 
 > 
